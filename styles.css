@@ -23,7 +23,7 @@ ul li a:hover {
 
 }
 
-ul{
+ul {
   position:-webkit-sticky; /*safari*/
   position: sticky;
   top: 0;
